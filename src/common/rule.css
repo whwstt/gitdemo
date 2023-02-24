@@ -1,0 +1,6 @@
+.fl{float: left;}
+.fr{float: right;}
+.clear{clear: both;}
+.mt,.ml,.mr,.mb{margin-top: 10px;}
+.pt,.pl,.pr,.pb{padding-top: 10px;}
+.tr{text-align: right;}
